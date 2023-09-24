@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlfG71
 - 👀 I’m interested in learning as much about Software Delvelopment as possible and contribute with the end goal of a better world
-- 🌱 I’m currently learning JavaScript while studying at Launch School
+- 🌱 I’m currently learning to create full stack MERN apps with Ironhack program
 - 💞️ I’m looking to collaborate on Ruby or JavaScript or any project that will help me further my skills
 - 📫 How to reach me alfonso.j.gonzalez@icloud.com
 
